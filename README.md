@@ -4,18 +4,13 @@ This Project focuses on developing an efficient Relational Database Management S
 
 ## Business Scenario
 1. Customer Convenience: DRIVE_NXT provides quick, easy, and reliable cab booking services for daily travel needs.
-
 2. Revenue Growth: The company earns income through ride fares, commissions, and corporate travel contracts.
-
 3. Time Saving: DRIVE_NXT reduces travel waiting time through faster bookings and quick driver allocation.
-
 4. Technology Advantage: Smart apps, GPS tracking, and data analytics improve operations and customer experience.
 
 ## Project Objective
-1.  Design RDBMS schema – Create structured database for bookings, drivers, and customers.
-   
+1.  Design RDBMS schema – Create structured database for bookings, drivers, and customers. 
 2.  Analyze trends – Identify demand patterns, peak hours, and customer preferences using SQL.
-
 3.  Monitor performance – Track completion rates, cancellations, and driver availability for operational efficiency.
 
 ## Tools/Methods
@@ -23,7 +18,6 @@ This Project focuses on developing an efficient Relational Database Management S
 2. ER Diagram
 3. Relational Database Design
 4. RCA & SWOT Analysis
-
 
 ## Key Outcomes
 1. Weekend bookings generate higher revenue
